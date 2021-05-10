@@ -1,0 +1,2 @@
+execute as @e[tag=STILL_engine] at @s if block ^ ^1.3 ^-1.5 air if block ^ ^1.3 ^1 air run teleport @s ~ ~-0.1 ~
+execute as @e[tag=STILL_engine] at @s unless block ^ ^1.3 ^1 air unless block ^ ^1.4 ^1 torch if block ^ ^2.5 ^1 air run teleport @s ~ ~0.1 ~

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ADA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:paper"
+    
+  },
+       "B": {
+      "item": "minecraft:map" 
+        
+       },
+      
+      
+      "C": {
+      "item": "minecraft:phantom_membrane" 
+        
+       },
+      
+      "D": {
+      "item": "minecraft:book" 
+        
+       }
+       
+  },
+    
+    
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}
