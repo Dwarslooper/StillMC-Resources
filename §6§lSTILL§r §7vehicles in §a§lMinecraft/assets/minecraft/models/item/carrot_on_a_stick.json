@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+    {"predicate": {"custom_model_data":999}, "model": "custom/warnleuchte"},
+    {"predicate": {"custom_model_data":1000}, "model": "custom/koppeln_on"},
+    {"predicate": {"custom_model_data":1001}, "model": "custom/koppeln_off"},
+    {"predicate": {"custom_model_data":1002}, "model": "custom/bohrericon"},
+    {"predicate": {"custom_model_data":1003}, "model": "custom/staplerld"},
+    {"predicate": {"custom_model_data":1004}, "model": "custom/stapler"}
+  ]
+}

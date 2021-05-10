@@ -1,0 +1,13 @@
+{
+ "backs":{
+   "sounds":[
+	"still:backs"
+	]
+  },
+  "ad_end":{
+	"sounds":[
+	"still:ad_end"
+		]
+  }
+
+}

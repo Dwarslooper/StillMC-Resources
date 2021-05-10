@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides": [
+    {"predicate": {"custom_model_data":999}, "model": "custom/stillr07"},
+    {"predicate": {"custom_model_data":1000}, "model": "custom/stillr07warn"},
+    {"predicate": {"custom_model_data":1001}, "model": "custom/anhaenger"},
+    {"predicate": {"custom_model_data":1002}, "model": "custom/bohrer"},
+    {"predicate": {"custom_model_data":1003}, "model": "custom/gabelstapler"},
+    {"predicate": {"custom_model_data":1004}, "model": "custom/gabelstaplerwon"},
+    {"predicate": {"custom_model_data":1005}, "model": "custom/gabelstapler_up"},
+    {"predicate": {"custom_model_data":1006}, "model": "custom/gabelstaplerwon_up"}
+  ]
+}

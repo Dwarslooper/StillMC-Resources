@@ -1,0 +1,96 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/leuchte",
+		"1": "block/still_gray_color",
+		"2": "block/still_black_color",
+		"particle": "block/leuchte"
+	},
+	"elements": [
+		{
+			"name": "warnleuchte_base",
+			"from": [7.85, 0, 5],
+			"to": [8.05, 1, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.25, 8, 15]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.2, 1], "texture": "#2"},
+				"east": {"uv": [0, 0, 6, 1], "texture": "#2"},
+				"south": {"uv": [0, 0, 0.2, 1], "texture": "#2"},
+				"west": {"uv": [0, 0, 6, 1], "texture": "#2"},
+				"up": {"uv": [0, 0, 0.2, 6], "texture": "#1"},
+				"down": {"uv": [0, 0, 0.2, 6], "texture": "#2"}
+			}
+		},
+		{
+			"name": "warnleuchte_T1",
+			"from": [7.85, 1, 5.5],
+			"to": [8.05, 4, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.25, 9, 15]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.2, 1], "texture": "#2"},
+				"east": {"uv": [0, 0, 15.72881, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.2, 1], "texture": "#2"},
+				"west": {"uv": [0, 2.98305, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.2, 5], "texture": "#1"},
+				"down": {"uv": [0, 0, 0.2, 5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "warnleuchte_T2",
+			"from": [7.85, 4, 5.75],
+			"to": [8.05, 4.75, 10.25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.25, 12, 15]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.2, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 15.72881, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.2, 1], "texture": "#1"},
+				"west": {"uv": [0.27119, 0, 16, 3.52542], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.2, 5], "texture": "#1"},
+				"down": {"uv": [0, 0, 0.2, 5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "warnleuchte_T3",
+			"from": [7.85, 4.75, 6],
+			"to": [8.05, 5.25, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.25, 12.75, 15]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.2, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 15.72881, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.2, 1], "texture": "#1"},
+				"west": {"uv": [0.27119, 0, 16, 3.52542], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.2, 5], "texture": "#1"},
+				"down": {"uv": [0, 0, 0.2, 5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "warnleuchte_T4",
+			"from": [7.85, 5.25, 6.25],
+			"to": [8.05, 5.75, 9.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15.25, 13.25, 15]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.2, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 15.72881, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.2, 1], "texture": "#1"},
+				"west": {"uv": [0.27119, 0, 16, 3.52542], "texture": "#0"},
+				"up": {"uv": [0, 0, 0.2, 5], "texture": "#2"},
+				"down": {"uv": [0, 0, 0.2, 5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 8.75, 0],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-0.25, 8.75, -0.5]
+		},
+		"gui": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 9.75, 0],
+			"scale": [2, 2, 2]
+		}
+	}
+}
