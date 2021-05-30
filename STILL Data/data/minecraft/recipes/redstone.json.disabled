@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "DC#",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:iron_block"
+    
+  },
+       "B": {
+      "item": "minecraft:command_block" 
+        
+       },
+      
+      
+      "C": {
+      "item": "minecraft:redstone" 
+        
+       },
+      
+      "D": {
+      "item": "minecraft:glass" 
+        
+       }
+  },
+    
+    
+  "result": {
+    "item": "minecraft:command_block"
+  }
+}

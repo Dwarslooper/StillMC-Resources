@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "AEA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:redstone"
+    
+  },
+       "B": {
+      "item": "minecraft:observer" 
+        
+       },
+      
+      
+      "C": {
+      "item": "minecraft:redstone_lamp" 
+        
+       },
+      
+      "D": {
+      "item": "minecraft:redstone_block" 
+        
+       },
+      
+       "E": {
+      "item": "minecraft:nether_star" 
+        
+       }
+  },
+    
+    
+  "result": {
+    "item": "minecraft:command_block"
+  }
+}
