@@ -17,6 +17,7 @@ scoreboard objectives add still.ldUse minecraft.used:minecraft.carrot_on_a_stick
 scoreboard objectives add still.gstp_hbUse minecraft.used:minecraft.carrot_on_a_stick
 scoreboard objectives add still.gstp_hb dummy
 scoreboard objectives add still.infobook minecraft.crafted:minecraft.knowledge_book
+scoreboard objectives add still.ldT dummy
 scoreboard players set #90 still.data 90
 execute as @a[scores={still.lv=1..}] at @s run scoreboard players reset @s still.joinftime
 execute as @a[scores={still.lv=1..}] at @s run scoreboard players reset @s still.lv
