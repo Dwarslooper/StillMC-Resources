@@ -13,6 +13,8 @@ Hinweis: Dieses Projekt wurde von Dwarslooper entwickelt. Jegliche weitergabe oh
 - Jegliche Arten an Kopie dieses Projektes sind verboten. Verbreitung und Kopien des codes / der texturen oder models ist in jedem Fall UNTERSAGT!
 - Als letztes möchte ich nur nochmal darauf hinweisen dass es echt Assi ist selber mehr oder weniger genau das gleiche zu machen und es dann komplett als seins auszugeben. Also     seid kein Idiot und lasst es bitte.
 
+Das Nicht-einhalten der Regeln kann von einem Bann / einer Blockierung bis hin zu strafrechtlicher Verfolgung führen!
+
 Das wars im simplen.
 
 Viel Spaß!
