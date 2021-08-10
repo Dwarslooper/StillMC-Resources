@@ -10,7 +10,7 @@ Hinweis: Dieses Projekt wurde von Dwarslooper entwickelt. Jegliche weitergabe oh
 - Ihr dürft dieses Projekt reviewen, so lange ihr angebt, dass dieses Projekt von mir erstellt wurde.
 - Jegliche kommerzielle Nutzung ist verboten.
 - Du darfst nicht dieses Projekt auf deiner eigenen Plattform zum Download anbieten. Wenn ihr einen Download bereitstellen wollt, gebt bitte einen Link zu dieser Seite an.
-- Jegliche Arten an Kopie dieses Projektes sind verboten. Verbreitung und Kopien des codes / der texturen oder models ist in jedem Fall UNTERSAGT!
+- Jegliche Arten an Kopie dieses Projektes sind verboten. Verbreitung und Kopien des codes / der texturen oder models ist in jedem Fall UNTERSAGT! (Dies gilt auch für Forks!!)
 - Als letztes möchte ich nur nochmal darauf hinweisen dass es echt Assi ist selber mehr oder weniger genau das gleiche zu machen und es dann komplett als seins auszugeben. Also     seid kein Idiot und lasst es bitte.
 
 Das Nicht-einhalten der Regeln kann von einem Bann / einer Blockierung bis hin zu strafrechtlicher Verfolgung führen!
