@@ -1,6 +1,7 @@
 # STILL_MC-Ressources
 
 Dies sind alle benötigten Ressources für mein Projekt StillMC. Der Ordner der "StillMC-Data" heisst ist das Datapack, das andere das Ressourcepack. Ihr müsst es einfach nur installieren und es sollte laufen.
+
 Die Fahrzeuge sind btw. inspiriert von der Firma STILL, die ebenfalls solche Fahrzeuge herstellen, das soll jtz nt irgendwie Werbung sein sondern nur n Hinweis
 
 Hinweis: Dieses Projekt wurde von Dwarslooper entwickelt. Jegliche weitergabe ohne Quelle oder kommerzielle Nutzung ist NICHT ERLAUBT! Die Regeln sind ganz einfach:
