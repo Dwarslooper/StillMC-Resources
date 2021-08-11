@@ -2,8 +2,6 @@
 
 Dies sind alle benötigten Ressources für mein Projekt StillMC. Der Ordner der "StillMC-Data" heisst ist das Datapack, das andere das Ressourcepack. Ihr müsst es einfach nur installieren und es sollte laufen.
 
-DIE UNTEN AUFGELISTETEN REGELN STEHEN ÜBER DER LIZENZ! Überschneidungen zwischen der Lizenz und den Regeln sind möglich, in solchem Fall gilt das was in den Regeln steht
-
 Hinweis: Dieses Projekt wurde von Dwarslooper entwickelt. Jegliche weitergabe ohne Quelle oder kommerzielle Nutzung ist NICHT ERLAUBT! Die Regeln sind ganz einfach:
 
 - Gebt dieses Projekt nicht als eures aus. Es war sehr viel Arbeit.
