@@ -11,6 +11,8 @@
     {"predicate": {"custom_model_data":1003}, "model": "custom/gabelstapler"},
     {"predicate": {"custom_model_data":1004}, "model": "custom/gabelstaplerwon"},
     {"predicate": {"custom_model_data":1005}, "model": "custom/gabelstapler_up"},
-    {"predicate": {"custom_model_data":1006}, "model": "custom/gabelstaplerwon_up"}
+    {"predicate": {"custom_model_data":1006}, "model": "custom/gabelstaplerwon_up"},
+    {"predicate": {"custom_model_data":1007}, "model": "custom/schneeraupe"},
+    {"predicate": {"custom_model_data":1008}, "model": "custom/pistenraupe_1"}
   ]
 }
