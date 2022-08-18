@@ -1,23 +1,23 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "ABA",
     "ACA",
-    "ADA"
+    "ADA",
+    "ABA"
   ],
   "key": {
     "A": {
-      "item": "minecraft:paper"
+      "item": "minecraft:redstone"
     
   },
        "B": {
-      "item": "minecraft:map" 
+      "item": "minecraft:diamond" 
         
        },
       
       
       "C": {
-      "item": "minecraft:phantom_membrane" 
+      "item": "minecraft:feather" 
         
        },
       
