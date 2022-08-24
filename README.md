@@ -36,4 +36,4 @@ Crafting:
   
   Panzer: 1 Command Block, 1 Redstone Block, 1 Iron Block, 1 Redstone Torch
   
-  Flugzeug: 1 Command Block, 1 Piston, 1 Redstone, 1 Iron Block
+  Flugzeug: 1 Command Block, 1 Piston, 1 Redstone, 2 Iron Block
