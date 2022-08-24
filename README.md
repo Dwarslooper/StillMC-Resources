@@ -26,3 +26,7 @@ Crafting:
   Bohrer S089: 1 Diamond Pickaxe, 1 Piston, 1 Command Block, 2 Iron Ingotsm, 1 Redstone
   Anhänger: 1 Grindstone, 2 String, 2 Iron Ingot, 1 Chest / Minecart
   Stapler: 1 Iron Block, 1 Glas, 1 Command Block, 2 Iron Trapdoor, 1 Redstone
+  Schneeraupe: 2 Iron Block, 1 Redstone, 1 Piston, 2 Iron Trapdoor, 1 Command Block
+  Hubwagen: 1 Iron Ingot, 1 Piston, 1 Trapdoor, 1 Redstone
+  Panzer: 1 Command Block, 1 Redstone Block, 1 Iron Block, 1 Redstone Torch
+  Flugzeug: 1 Command Block, 1 Piston, 1 Redstone, 1 Iron Block
