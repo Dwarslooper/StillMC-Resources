@@ -18,3 +18,11 @@ Das Nicht-einhalten der Regeln kann von einem Bann / einer Blockierung bis hin z
 Das wars im simplen.
 
 Viel Spaß!
+
+
+Crafting:
+
+  Schlepper R07: 1 Iron Block, 1 Command Block, 1 Redstone, 1 Glas
+  Bohrer S089: 1 Diamond Pickaxe, 1 Piston, 1 Command Block, 2 Iron Ingotsm, 1 Redstone
+  Anhänger: 1 Grindstone, 2 String, 2 Iron Ingot, 1 Chest / Minecart
+  Stapler: 1 Iron Block, 1 Glas, 1 Command Block, 2 Iron Trapdoor, 1 Redstone
