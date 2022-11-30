@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "ABA",
-    "CDC",
-    "AEA"
+    "CEC",
+    "ADA"
   ],
   "key": {
     "A": {
@@ -27,7 +27,7 @@
        },
       
        "E": {
-      "item": "minecraft:nether_star" 
+      "item": "minecraft:conduit" 
         
        }
   },

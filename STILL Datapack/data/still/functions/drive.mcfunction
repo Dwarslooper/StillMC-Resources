@@ -44,14 +44,14 @@ execute as @a at @s unless entity @e[type=armor_stand,tag=STILL_eg,distance=..2]
 execute as @a at @s unless entity @e[type=armor_stand,tag=STILL_eg,distance=..2] run clear @s carrot_on_a_stick{CustomModelData:1000,display:{Name:'{"text":"Anhänger: on/off","color":"green","italic":false}'}}
 
 execute as @a[scores={still.warnUse=1}] at @s run scoreboard players add @e[type=armor_stand,limit=1,sort=nearest,distance=..2,tag=STILL_engine] still.warn 1
-
+execute as @a[scores={still.warnUse=1}] at @s run scoreboard players reset @s still.warnUse
 execute as @e[scores={still.warn=2..},type=armor_stand,tag=STILL_engine] at @s run scoreboard players reset @s still.warn
 
 
 execute as @a[nbt={SelectedItem:{id:"minecraft:lime_dye",Count:1b,tag:{display:{Name:'{"text":"Vorwärts","color":"green","italic":false}'}}}}] at @s run scoreboard players set @s still.STILL 1
 execute as @a[nbt={SelectedItem:{id:"minecraft:lime_dye",Count:1b,tag:{display:{Name:'{"text":"Vorwärts x2","color":"green","italic":false}'}}}}] at @s run scoreboard players set @s still.STILL 2
 execute as @a[nbt={SelectedItem:{id:"minecraft:red_dye",Count:1b,tag:{display:{Name:'{"text":"Rückwärts","color":"red","italic":false}'}}}}] at @s run scoreboard players set @s still.STILL -1
-execute as @a[nbt=!{SelectedItem:{id:"minecraft:red_dye",Count:1b,tag:{display:{Name:'{"text":"Rückwärts","color":"red","italic":false}'}}}},nbt=!{SelectedItem:{id:"minecraft:lime_dye",Count:1b,tag:{display:{Name:'{"text":"Vorwärts","color":"green","italic":false}'}}}},nbt=!{SelectedItem:{id:"minecraft:lime_dye",Count:1b,tag:{display:{Name:'{"text":"Vorwärts x2","color":"green","italic":false}'}}}}] at @s run scoreboard players reset @s still.STILL
+
 
 execute as @e[scores={still.warn=1},type=armor_stand,tag=STILL_engine] at @s run scoreboard players add @s still.warnT 1
 execute as @e[scores={still.warnT=19},type=armor_stand,tag=STILL_engine] at @s run replaceitem entity @s armor.head paper{CustomModelData:1000}

@@ -11,6 +11,11 @@
         "minecraft:cave_air",
         "minecraft:void_air",
         "#minecraft:flowers",
-        "minecraft:snow"
+        "minecraft:snow",
+        "minecraft:tripwire",
+        "#minecraft:signs",
+        "minecraft:tripwire_hook",
+        "minecraft:water",
+        "#minecraft:crops"
     ]
 }

@@ -31,6 +31,7 @@ execute as @a[nbt={SelectedItem:{id:"minecraft:lime_dye",Count:1b,tag:{display:{
 execute as @a[nbt={SelectedItem:{id:"minecraft:red_dye",Count:1b,tag:{display:{Name:'{"text":"Rückwärts","color":"red","italic":false}'}}}}] at @s run scoreboard players set @s still.STILL -1
 
 
+
 execute as @e[type=armor_stand,tag=STILL_SNengine] at @s if score @s still.sn matches 1 positioned ^0.5 ^1.6 ^1.8 if block ^ ^-1 ^0.6 air run clone ^ ^ ^ ^ ^ ^ ^ ^-1 ^ masked move
 execute as @e[type=armor_stand,tag=STILL_SNengine] at @s if score @s still.sn matches 1 positioned ^-0.5 ^1.6 ^1.8 if block ^ ^-1 ^0.6 air run clone ^ ^ ^ ^ ^ ^ ^ ^-1 ^ masked move
 execute as @e[type=armor_stand,tag=STILL_SNengine] at @s if score @s still.sn matches 1 positioned ^ ^1.6 ^1.8 if block ^ ^-1 ^0.6 air run clone ^ ^ ^ ^ ^ ^ ^ ^-1 ^0.6 masked move

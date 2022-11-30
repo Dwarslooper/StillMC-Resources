@@ -23,7 +23,7 @@ scoreboard objectives add still.sn dummy
 scoreboard objectives add still.hwtime dummy
 scoreboard objectives add still.hwhight dummy
 scoreboard objectives add still.fireUse minecraft.used:minecraft.carrot_on_a_stick
+scoreboard objectives add still.y dummy
 scoreboard players set #90 still.data 90
 execute as @a[scores={still.lv=1..}] at @s run scoreboard players reset @s still.joinftime
 execute as @a[scores={still.lv=1..}] at @s run scoreboard players reset @s still.lv
-execute as @a[scores={still.joinftime=1}] at @s run tellraw @s [{"text":"STILL vehicles in Minecraft\n","color":"gold","bold":true,"underlined":true},{"text":"         v Beta 0.9a","color":"dark_green","underlined":false},{"text":"\n        by ","color":"gray","bold":false,"underlined":false},{"text":"Dwarslooper","color":"dark_red","bold":true,"underlined":false},{"text":"\n------------------------","color":"gray","underlined":false},{"text":"\nSTILL Fahrzeuge in Minecraft!\nDies ist die Beta Version des\nDatapacks für STILL Fahrzeuge\nvon Dwarslooper. Zum Datapack\nwird das STILL Ressourcepack\nbenötigt, da ansonsten einige\nTexturen fehlen werden. Du\nkannst es","color":"dark_aqua","bold":false,"underlined":false},{"text":" HIER ","color":"dark_purple","bold":true,"underlined":false,"clickEvent":{"action":"open_url","value":"https://discord.gg/DkarNxM"}},{"text":"Downloaden.","color":"dark_aqua","bold":false,"underlined":false},{"text":"\n\n⚠WARNUNG⚠","color":"red","underlined":false},{"text":" Das Löschen von\njeglichen scoreboards mit\ndem Anfang \"still.\" kann\nzu dauerhaften Fehlfunktionen\ndes Datapacks führen!","color":"red","bold":false,"underlined":false}]

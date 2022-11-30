@@ -14,6 +14,9 @@
     {"predicate": {"custom_model_data":1006}, "model": "custom/gabelstaplerwon_up"},
     {"predicate": {"custom_model_data":1007}, "model": "custom/schneeraupe"},
     {"predicate": {"custom_model_data":1008}, "model": "custom/pistenraupe_1"},
-    {"predicate": {"custom_model_data":1009}, "model": "custom/tank"}
+    {"predicate": {"custom_model_data":1009}, "model": "custom/tank"},
+    {"predicate": {"custom_model_data":1010}, "model": "custom/plane"},
+    {"predicate": {"custom_model_data":1011}, "model": "custom/turret_top"},
+    {"predicate": {"custom_model_data":1012}, "model": "custom/turret_bottom"}
   ]
 }

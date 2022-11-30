@@ -20,6 +20,7 @@ execute as @e[type=armor_stand,tag=STILL_TKengine] at @s as @e[type=minecart,dis
 execute as @a at @s unless entity @e[type=armor_stand,tag=STILL_eg,distance=..2] run clear @s carrot_on_a_stick{CustomModelData:1002,display:{Name:'{"text":"Fire Missile","color":"dark_red","italic":false}'}}
 
 
+execute as @a[scores={still.fireUse=1}] at @s unless entity @e[type=armor_stand,tag=STILL_TKengine,distance=..2] run scoreboard players reset @s still.fireUse
 
 execute as @a[scores={still.fireUse=1},gamemode=!creative,gamemode=!spectator] at @s if data entity @s {Inventory:[{id:"minecraft:fire_charge"}]} run clear @s fire_charge 1
 execute as @a[scores={still.fireUse=1},gamemode=!creative,gamemode=!spectator] at @s unless data entity @s {Inventory:[{id:"minecraft:fire_charge"}]} run scoreboard players reset @s still.fireUse
@@ -46,5 +47,4 @@ execute as @e[type=armor_stand,tag=STILL_tank_missile] at @s unless entity @a[di
 
 execute as @a[nbt={SelectedItem:{id:"minecraft:lime_dye",Count:1b,tag:{display:{Name:'{"text":"Vorwärts","color":"green","italic":false}'}}}}] at @s run scoreboard players set @s still.STILL 1
 execute as @a[nbt={SelectedItem:{id:"minecraft:red_dye",Count:1b,tag:{display:{Name:'{"text":"Rückwärts","color":"red","italic":false}'}}}}] at @s run scoreboard players set @s still.STILL -1
-
 
